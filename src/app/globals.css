@@ -120,3 +120,21 @@
     @apply bg-background text-foreground;
   }
 }
+
+@layer components {
+
+
+    .hover {
+      width: 8em;
+    }
+    
+    .sibling-close {
+      width: 7em;
+    }
+    
+    .sibling-far {
+      width: 6em;
+    }
+    
+  }
+}
