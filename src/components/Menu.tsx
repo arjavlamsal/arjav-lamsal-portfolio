@@ -182,8 +182,8 @@ export default function Menu() {
               <div className="nav-row__right flex justify-end items-center pointer-events-auto">
                 <button role="button" data-menu-toggle="" className="menu-button flex justify-end items-center bg-transparent m-4 border-none" onClick={toggleNav}>
                   <div className="menu-button-text flex flex-col justify-start items-end h-6 overflow-hidden">
-                    <p className="p-large text-lg font-sans">Menu</p>
-                    <p className="p-large text-lg font-sans">Close</p>
+                    <p className="p-large text-lg font-sans text-white">Menu</p>
+                    <p className="p-large text-lg font-sans text-white">Close</p>
                   </div>
                 </button>
               </div>
